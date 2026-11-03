@@ -4,3 +4,4 @@ numpy==2.4.6
 pandas==3.0.6
 scipy==1.18.1
 networkx==3.7
+scikit-learn==1.9.1
